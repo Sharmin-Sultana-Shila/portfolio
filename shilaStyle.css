@@ -1302,12 +1302,9 @@ section,
     margin-bottom: 8px;
     transition: transform 0.3s ease;
 }
-.hobbiesPic{
-    height: 383px;
-    width: 287px;
-}
-.ccc{
-    height: 100%;
-    width: 100%;
+
+.portfolio-content img{
+    width: 313px;
+    height: 235px;
     object-fit: cover;
 }
