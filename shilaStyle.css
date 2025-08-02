@@ -1293,8 +1293,8 @@ section,
 } */
 
 .ShilaPic {
-    width: 10em;
-    height: 8em;
+    width: 8.5em;
+    height: 7.5em;
     object-fit: cover;
     border-radius: 50%;
     /* Makes it a circle */
